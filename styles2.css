@@ -1,0 +1,79 @@
+.heroimage {
+    background-image:  url(images/fish.jpg);
+    background-color:blueviolet;
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    text-align: left;
+  }
+h1{
+    color:  #f0f0f0;
+    font-family: 'Baloo Tamma 2', cursive;
+    margin-right: 15%;
+  }
+  
+  .contact-info .fa {
+    padding-right: 5px;
+  }
+  
+  #contact .form-control {
+    border: none;
+    border-bottom: 2px solid #f0f0f0;
+    border-radius: 0px;
+    box-shadow: none;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-transition: all ease-in-out 0.4s;
+    transition: all ease-in-out 0.4s;
+  }
+  
+  #contact .form-control:focus {
+    border-bottom-color: #999999;
+  }
+  
+  #contact input {
+    height: 55px;
+  }
+  
+  #contact button#submit {
+    background: #2b2b2b;
+    border: none;
+    border-radius: 50px;
+    color: #ffffff;
+    height: 50px;
+    margin-top: 24px;
+  }
+  
+  #contact button#submit:hover {
+    background: #7682cc;
+    color: #ffffff;
+  }
+  .section-title{
+      margin-top: 5%;
+  }
+  /* footer */
+  .fa-2x {
+    padding: 30px;
+    
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .form{
+    margin-right: 20%;
+  }
+
+ .fa-2x:hover {
+    opacity: 0.7;
+ }
+ /* Locations */
+ .btn-group{
+   text-align: center;
+   margin-left: 17%;
+ }
+.white-section{
+    text-align: center;
+    margin-top: 5%;
+}

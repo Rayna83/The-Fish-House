@@ -1,0 +1,232 @@
+/* .opening{
+    /* background-color: #eeeeee; */
+    /* color: #fbd46d;
+   } */ 
+     /* background-color:  #4f8a8b; */
+    
+    
+    
+  
+/* 1st Button */
+
+/* Heros */
+      .heroimage {
+        background-image:  url(images/gocat.jpg);
+        background-color: #4f8a8b;
+        height: 350px;
+        background-position: center;
+        background-repeat: no-repeat; 
+        background-size: cover; 
+        /* position: fixed;
+        z-index: 3; */
+      }
+      h1{
+        font-family: 'Berkshire Swash', cursive;
+        margin-left: 25%;
+        
+
+      }
+
+.intro.display{
+ height: 5%;
+  }
+  /* Hero images */
+    .gyro{
+      background-image:  url(images/GyroSandwich.jpg);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+      
+    } 
+    .center{
+      margin-left: 45%;
+    }
+    .chicken{
+      background-image:  url(images/Chicken\ image.JPG);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+    .salad{
+      background-image:  url(images/Grilled\ Chicken\ Salad.jpg);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+
+    .steam{
+      background-image:  url(images/Arctic\ Bay.JPG);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+
+    .fish{
+      background-image:  url(images/fish.jpg);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+
+    .sandwich{
+      background-image:  url(images/Italian\ Beef.jpg);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+
+
+    .combo{
+      background-image:  url(images/GRILLED\ 6\ Shrimp\ &\ 5\ Scallops.JPG);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+    .kids{
+      background-image:  url(images/Kids\ Chicken\ Nuggets.JPG);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+
+    .side{
+      background-image:  url(images/Jalapeno\ Cheese.JPG);
+      background-color: #4f8a8b;
+      height: 350px;
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover;
+    } 
+
+
+
+
+
+
+
+/* Badges */
+/* 
+.myfirstbadge{
+  background-image:url(images/Covid.jpg);
+  background-size:cover;
+  height:400px;
+}
+.mysecondbadge{
+  background-image:url(images/Support.jpg);
+  background-size:cover;
+  height:40s0px;
+} */
+   body {
+       font-family: "Montserrat";
+       text-align: center;
+     }
+
+     h1, h2, h3, h4, h5, h6 {
+      font-family: 'Noto Serif', serif;
+    }
+    
+     /* Navigation Bar */
+   
+   .navbar {
+       list-style: none;
+       font-weight: bold;
+       text-align: center;
+       background-color: #000000;
+            }
+     
+     .navbar-brand {
+       font-size: 2.5rem;
+       font-weight: bold;
+     }
+     
+     .nav-item {
+       padding: 0 18px;
+     }
+   
+     /* Main Page */
+     .greeting{
+      font-family: 'Berkshire Swash', cursive;
+        text-align: center;
+         line-height: 3.5rem;
+         margin-bottom: 2rem auto;
+         padding: 7% 15%;
+     }
+     .featurette-heading{
+      margin: 0 15%;
+     }
+    .lead{
+      font-family: 'Noto Serif', serif;
+      line-height: 3.5rem;
+      text-align: left;
+      margin: 15%;
+      margin-top: 7%;
+    }
+          
+      .options{
+        padding: 7% 25%;
+       margin-top: 20%;
+      }
+
+        /* Menu Page */
+      .rounded-circle{
+           padding: 7% 5%;
+           margin-top: 20%;
+      }
+
+      .menu-items{
+            margin: 2% 5% 7%;
+         }
+      .pricing{
+        text-align: center;
+      }
+
+      /* Carousels */
+    
+        .intro{
+          margin-left: 5px;
+        }
+        .container-fluid{
+          text-align: center;
+          
+        }
+      
+      .car-two{
+        background-color: #eeeeee;
+        padding: 7% 35%;
+        position: fixed;
+      }
+      .fa-2x {
+        padding: 30px;
+        
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+      }
+      
+  
+     .fa-2x:hover {
+        opacity: 0.7;
+     }
+     /* Locations */
+     .btn-group{
+       text-align: center;
+       margin-left: 17%;
+       margin-top: 5%;
+     }
+    
