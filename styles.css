@@ -1,17 +1,9 @@
-/* .opening{
-    /* background-color: #eeeeee; */
-    /* color: #fbd46d;
-   } */ 
-     /* background-color:  #4f8a8b; */
-    
-    
-    
-  
+ 
 /* 1st Button */
 
 /* Heros */
       .heroimage {
-        background-image:  url(images/gocat.jpg);
+        background-image:  url(images/hero.JPG);
         background-color: #4f8a8b;
         height: 350px;
         background-position: center;
