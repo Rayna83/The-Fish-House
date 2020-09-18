@@ -1,5 +1,18 @@
+     /* Navigation Bar */
+   
+     .navbar {
+      list-style: none;
+      font-weight: bold;
+      text-align: center;
+      background-color: #000000;
+           }
+    
+      
+    .nav-item {
+      padding: 0 18px;
+    }
 .heroimage {
-    background-image:  url(images/fish.jpg);
+    background-image:  url(images/Gone-fishing.jpg);
     background-color:blueviolet;
     height: 350px;
     background-position: center;

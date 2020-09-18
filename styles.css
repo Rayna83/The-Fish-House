@@ -1,8 +1,16 @@
  
 /* 1st Button */
 
-/* Heros */
-      .heroimage {
+/* Main Page Heros */
+.catering-heroimage{
+  background-image:  url(images/Catering.jpg);
+  background-color: #4f8a8b;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+.heroimage {
         background-image:  url(images/hero.JPG);
         background-color: #4f8a8b;
         height: 350px;
@@ -12,7 +20,23 @@
         /* position: fixed;
         z-index: 3; */
       }
-      h1{
+.menu-heroimage{
+  background-image:  url(images/Menu.jpg);
+  background-color: #4f8a8b;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+.locaton-heroimage{
+  background-image:  url(images/our-locations.jpg);
+  background-color: #4f8a8b;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+  h1{
         font-family: 'Berkshire Swash', cursive;
         margin-left: 25%;
         
@@ -142,11 +166,7 @@
        background-color: #000000;
             }
      
-     .navbar-brand {
-       font-size: 2.5rem;
-       font-weight: bold;
-     }
-     
+       
      .nav-item {
        padding: 0 18px;
      }
