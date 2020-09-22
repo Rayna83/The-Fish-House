@@ -11,6 +11,13 @@
     .nav-item {
       padding: 0 18px;
     }
+
+    .logo {
+      position: absolute;
+      left: 2%;
+      top: 15%;
+    }
+     
 .heroimage {
     background-image:  url(images/Gone-fishing.jpg);
     background-color:blueviolet;
@@ -24,6 +31,10 @@ h1{
     color:  #f0f0f0;
     font-family: 'Baloo Tamma 2', cursive;
     margin-right: 15%;
+  }
+  body {
+    font-family: "Montserrat";
+    text-align: center;
   }
   
   .contact-info .fa {
