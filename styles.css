@@ -21,6 +21,7 @@
   margin-left: 20%;
 }
 
+
 /* Main Page Heros */
 .catering-heroimage{
   background-image:  url(images/Catering.jpg);
@@ -49,6 +50,12 @@
   background-repeat: no-repeat; 
   background-size: cover; 
 }
+.menu-text{
+  position: absolute;
+  right: 35%;
+  top: 25%;
+  font-size: 3rem;
+}
 .locaton-heroimage{
   background-image:  url(images/our-locations.jpg);
   background-color: #4f8a8b;
@@ -56,6 +63,13 @@
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover; 
+  box-shadow: inset 0 0 0 2000px rgba(46, 40, 43, 0.3);
+}
+.location-text{
+  position: absolute;
+  right: 35%;
+  top: 25%;
+  font-size: 3rem;
 }
   h1{
         font-family: 'Berkshire Swash', cursive;

@@ -27,14 +27,20 @@
     background-size: cover; 
     text-align: left;
   }
+.first{
+  text-align: left;
+  left: 60%;
+}
+
 h1{
     color:  #f0f0f0;
     font-family: 'Baloo Tamma 2', cursive;
     margin-right: 15%;
   }
+  
   body {
     font-family: "Montserrat";
-    text-align: center;
+    text-align: left;
   }
   
   .contact-info .fa {
