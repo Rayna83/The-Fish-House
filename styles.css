@@ -1,3 +1,8 @@
+/* .intro-text{
+  text-align: center ; 
+    -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+ } */
 
 /* Logo */
 .logo-home {
@@ -27,6 +32,10 @@
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover; 
+}
+.catering-text{
+  text-align: center;
+  left: 50%;
 }
 .heroimage {
         background-image:  url(images/hero.JPG);
@@ -78,6 +87,9 @@
 .intro.display{
  height: 5%;
   }
+  .jumbo-text{
+    text-align: center;
+  }
   /* Hero images */
     .gyro{
       background-image:  url(images/gyro-hero.jpg);
@@ -92,7 +104,7 @@
       margin-left: 45%;
     }
     .chicken{
-      background-image:  url(images/Chicken-image.JPG);
+      background-image:  url(images/chicken-hero3.jpg);
       background-color: #4f8a8b;
       height: 350px;
       background-position: center;
@@ -164,22 +176,6 @@
 
 
 
-
-
-
-
-/* Badges */
-/* 
-.myfirstbadge{
-  background-image:url(images/Covid.jpg);
-  background-size:cover;
-  height:400px;
-}
-.mysecondbadge{
-  background-image:url(images/Support.jpg);
-  background-size:cover;
-  height:40s0px;
-} */
    body {
        font-family: "Montserrat";
        
@@ -195,8 +191,7 @@
        list-style: none;
        font-weight: bold;
        text-align: center;
-       background-color: #000000;
-            }
+                 }
      
        
      .nav-item {
