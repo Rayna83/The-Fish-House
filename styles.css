@@ -1,8 +1,3 @@
-/* .intro-text{
-  text-align: center ; 
-    -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
- } */
 
 /* Logo */
 .logo-home {
@@ -13,11 +8,11 @@
 
 
 
-.main {
+/* .main {
   position: absolute;
   left: 15%;
   top: 35%;
-}
+} */
 .menu-button{
  
   margin-left: 25%;
@@ -40,7 +35,6 @@
 .heroimage {
         background-image:  url(images/hero.JPG);
         background-color: #4f8a8b;
-        height: 350px;
         background-position: center;
         background-repeat: no-repeat; 
         background-size: cover; 
@@ -48,6 +42,7 @@
         /* position: fixed;
         z-index: 3; */
       }
+      
 .menu-heroimage{
   background-image:  url(images/menu1.jpg);
   background-color: #4f8a8b;
@@ -57,8 +52,7 @@
   background-size: cover; 
 }
 .menu-text{
-  position: absolute;
-  right: 35%;
+   right: 35%;
   top: 25%;
   font-size: 3rem;
 }
@@ -72,8 +66,7 @@
   box-shadow: inset 0 0 0 2000px rgba(46, 40, 43, 0.3);
 }
 .location-text{
-  position: absolute;
-  right: 35%;
+   right: 35%;
   top: 25%;
   font-size: 3rem;
 }
